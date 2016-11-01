@@ -4,4 +4,3 @@ CMakeLists.txt
 src/.settings
 src/dump
 src/Debug
-src/*.pcap
